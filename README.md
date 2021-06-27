@@ -22,4 +22,4 @@ The Lambda function validates if user's email record is available on Dynamo DB, 
 
 ### INFRASTRUCTURE
 
-The infrastructure required by the Lambda function is built using **Terraform**. Find more information regarding infrastructure in this [repo](https://github.com/aelinadas/aws-infrastructure/blob/main/lambda.tf)
+The infrastructure required by the Lambda function is built using **Terraform**. Find more information regarding infrastructure in this [file](https://github.com/aelinadas/aws-infrastructure/blob/main/lambda.tf)
